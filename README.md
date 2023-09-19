@@ -1,8 +1,7 @@
 # hello-world
 Tutorial
 # Information about me
-**Where did I go to uni?**
-Manchester
+**Where did I go to uni?** Manchester
 **What experience do you have?**
 1. Support worker
 2. Administrator NHS
